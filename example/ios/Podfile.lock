@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutterlogin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutterlogin (from `.symlinks/plugins/flutterlogin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutterlogin:
+    :path: ".symlinks/plugins/flutterlogin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutterlogin: 01f71371f985f1049e41bf53126f9a262f197e67
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.8.4
